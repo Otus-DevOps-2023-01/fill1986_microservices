@@ -1,6 +1,12 @@
 # fill1986_microservices
 fill1986 microservices repository
 
+### docker-4
+Установлен docker-compose на локальную
+машину. Собраны образы приложения reddit с помощью
+docker-compose. Запущено приложение reddit с помощью docker-
+compose.
+
 ### docker-3
 Через docker-mashine в Yancdex Cloud развернут Docker host.
 На Docker host запущено приложение которое теперь состоит из трех
